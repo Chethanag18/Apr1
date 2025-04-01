@@ -1,0 +1,5 @@
+#commands to add push code
+Git clone 
+Git add file name
+Git commit -m " "
+Git push 
